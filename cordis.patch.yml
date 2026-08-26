@@ -1,0 +1,6 @@
+# dsh-my-questions-outline — 我的提问大纲侧边栏插件。
+# 这是一个纯客户端（Web）插件：宿主侧仅声明插件身份（lib/index.js 为 no-op），
+# 全部逻辑位于 lib/client.js，经 dsh.client web bundle 注入浏览器后渲染右侧侧边栏。
+- insert:
+    - id: my-questions-outline
+      name: dsh-my-questions-outline
