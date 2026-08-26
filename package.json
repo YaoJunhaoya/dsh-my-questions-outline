@@ -1,6 +1,6 @@
 {
   "name": "dsh-my-questions-outline",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "DeepSeek Harness (DSH) 插件：在页面右侧显示「我的提问大纲」侧边栏，自动收集当前会话里我提出的问题与插话，支持本地持久化、点击平滑滚动定位并高亮对应消息。",
   "type": "module",
   "main": "lib/index.js",
